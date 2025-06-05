@@ -45,10 +45,17 @@ p {
     margin-bottom: 100px;
 }
 
-.categoia-vidiosimg{
+.categoia-vidios img{
     opacity: 0.5;
     height: 200px;
 }
-.categoria-vidiosimg:haver {
-    opa
+
+.categoria-vidios img:hover {
+    opacity: 1.0;
+    border: 3px solid green;
 }
+
+.categoria h2 {
+    color: rgb(42, 122, 228)
+}
+
